@@ -1,5 +1,6 @@
 <html lang="en">
 <head>
+    <script async src="https://script.adquake.com/js/adquake.js" adquake-key="rrQcJxRTAkGo+Bzpy7P6mg=="></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProStory - WhatsApp Story Downloader</title>
