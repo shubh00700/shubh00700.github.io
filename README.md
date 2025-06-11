@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProStory - WhatsApp Story Downloader</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+    
     <style>
         * {
             margin: 0;
@@ -292,34 +292,10 @@
             font-size: 1rem;
         }
 
-        /* Ad Container */
-        .ad-container {
-            background: rgba(22, 27, 34, 0.8);
-            border: 1px solid var(--card-border);
-            border-radius: 12px;
-            padding: 25px;
-            text-align: center;
-            margin: 50px 0;
+        
         }
 
-        .ad-title {
-            font-size: 1.1rem;
-            margin-bottom: 15px;
-            color: var(--text-secondary);
-        }
-
-        .ad-content {
-            height: 250px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: rgba(13, 17, 23, 0.5);
-            border-radius: 8px;
-            color: var(--accent-light);
-            font-weight: 500;
-            font-size: 1.1rem;
-            border: 1px dashed var(--card-border);
-        }
+        
 
         /* Status Message */
         .status-message {
