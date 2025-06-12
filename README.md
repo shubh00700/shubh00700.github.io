@@ -1,7 +1,6 @@
 <html lang="en">
-<head>
     <meta name="monetag" content="0443d2da61e6e6d8e9e4242e0e6cad5c">
-</head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ProStory - WhatsApp Story Downloader</title>
