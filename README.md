@@ -443,11 +443,7 @@
                 </div>
             </div>
             
-            <div class="ad-container">
-                <div class="ad-title">Advertisement</div>
-                <div class="ad-content">
-                    Ad Space (728 × 250) - AdSense will display here
-                </div>
+            
             </div>
             
             <div class="features">
@@ -463,7 +459,7 @@
                     <div class="feature-icon">
                         <i class="fas fa-lock"></i>
                     </div>
-                    <h3 class="feature-title">100% Secure</h3>
+                    <h3 class="feature-title">100% Free & Secure</h3>
                     <p class="feature-desc">We never store your data or downloaded content</p>
                 </div>
                 
@@ -476,11 +472,7 @@
                 </div>
             </div>
             
-            <div class="ad-container">
-                <div class="ad-title">Advertisement</div>
-                <div class="ad-content">
-                    Ad Space (300 × 250) - AdSense will display here
-                </div>
+            
             </div>
         </main>
         
